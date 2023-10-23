@@ -17,4 +17,4 @@ final itemArgs = ModalRoute.of(context)!.settings.arguments as Item;
 6. Selesaikan Praktikum Navigasi dan Rute tersebut, lalu dokumentasikan dan push ke repository Anda berupa screenshot setiap hasil pekerjaan beserta penjelasannya di file README.md. Kumpulkan link commit repository GitHub Anda ke spreadsheet yang telah disediakan!
 
 link repo prak 4 tugas 1 : https://github.com/mutiaradevita/pertemuan-7
-link repo park 5 tugas 2 :
+link repo park 5 tugas 2 : https://github.com/mutiaradevita/pertemuan-8
